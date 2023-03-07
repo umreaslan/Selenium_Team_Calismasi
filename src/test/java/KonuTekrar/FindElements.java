@@ -37,7 +37,7 @@ public class FindElements {
 
 
         WebElement hediyeKutusu=driver.findElement(By.id(""));
-        hediyeKutusu.isDisplayed();//elementin GORUNUR OLDUGUNUN test edilmediS
+        hediyeKutusu.isDisplayed();//elementin GORUNUR OLDUGUNUN test edilmedi
 
     }
 
